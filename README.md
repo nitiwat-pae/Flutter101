@@ -3,7 +3,7 @@
 Yo! I'm Pae. This is my first flutter learning.
 Thank you CMDev channel !
 
-##Notes
+## Notes
 
 "width: double.infinity" in Container() make width full screen
 
